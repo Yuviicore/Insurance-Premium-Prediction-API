@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
-
-API_URL = "https://insurance-premium-prediction-api-backend.onrender.com/predict"" 
+API_URL = "https://insurance-premium-prediction-api-backend.onrender.com/predict"
 
 st.title("Insurance Premium Category Predictor")
 
